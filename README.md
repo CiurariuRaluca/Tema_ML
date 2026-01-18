@@ -65,25 +65,7 @@ Evaluare:
 - Hit@1 / Hit@3 / Hit@5
 - baseline popularitate globală
 
----
-Structura:
-TEMA_ML/
-│── .venv/
-│── plots/
-│── result_metrics/
-│ ├── results_metrics.csv
-│ ├── results_metrics_ft.csv
-│ └── results_metrics_l2.csv
-│── results/
-│ ├── coefficients_*.csv
-│── src/
-│ ├── exercise_2_1/
-│ ├── exercise_2_2/
-│ └── exercise_3/
-│── main.py
-│── ap_dataset.csv
-│── README.md
-│── requirements.txt
+
 
 ##  Setup
 
